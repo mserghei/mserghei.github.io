@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "page1.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "page1"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
+                "file": "page1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for about"
+              "title": "Backlinks for page1"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2016-05-20-this-post-demonstrates-post-content-styles.md",
-                "followCursor": false,
+                "file": "page1.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2016-05-20-this-post-demonstrates-post-content-styles"
+              "title": "Outline of page1"
             }
           },
           {
@@ -171,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "about.md"
+                "file": "page1.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for about"
+              "title": "File properties for page1"
             }
           }
         ],
@@ -195,10 +195,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "e64b58d03aa927ad",
+  "active": "9efbb425a40f4845",
   "lastOpenFiles": [
-    "page1.md",
+    "_layouts/page.html",
+    "index.md",
+    "draw.canvas",
     "about.md",
+    "page1.md",
     "assets/style.css",
     "assets/New Text Document.txt",
     "assets",
@@ -207,7 +210,6 @@
     "_layouts/New Text Document.txt",
     "_layouts",
     "images/img20260202204156.png",
-    "index.md",
     "img20260202203837.png",
     "images/Pasted.md",
     "image/Pasted.md",
@@ -215,13 +217,11 @@
     "Pasted.md",
     "images",
     "draw.md",
-    "draw.canvas",
     "_posts/2016-05-20-this-post-demonstrates-post-content-styles.md",
     "_posts/2016-05-20-super-long-article.md",
     "_posts/2016-05-19-super-short-article.md",
     "_posts/2016-05-19-codeblocks-ahoy.md",
     "_pages/a.md",
-    "about.md",
     "_pages",
     "README.md",
     "_posts/2016-05-20-welcome-to-jekyll.md",
