@@ -11,14 +11,17 @@
             "id": "e64b58d03aa927ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "page1.md",
-                "mode": "source",
-                "source": false
+                "file": "draw.canvas",
+                "viewState": {
+                  "x": -85,
+                  "y": 65,
+                  "zoom": -0.02966578220789889
+                }
               },
-              "icon": "lucide-file",
-              "title": "page1"
+              "icon": "lucide-layout-dashboard",
+              "title": "draw"
             }
           }
         ]
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "page1.md",
+                "file": "draw.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for page1"
+              "title": "Backlinks for draw"
             }
           },
           {
@@ -156,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "page1.md",
+                "file": "draw.canvas",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of page1"
+              "title": "Outline of draw"
             }
           },
           {
@@ -171,10 +174,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "page1.md"
+                "file": "draw.canvas"
               },
               "icon": "lucide-info",
-              "title": "File properties for page1"
+              "title": "File properties for draw"
             }
           }
         ],
@@ -195,13 +198,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "9efbb425a40f4845",
+  "active": "e64b58d03aa927ad",
   "lastOpenFiles": [
-    "_layouts/page.html",
-    "index.md",
-    "draw.canvas",
     "about.md",
+    "draw.canvas",
+    "index.md",
     "page1.md",
+    "_layouts/page.html",
     "assets/style.css",
     "assets/New Text Document.txt",
     "assets",
@@ -222,7 +225,6 @@
     "_posts/2016-05-19-super-short-article.md",
     "_posts/2016-05-19-codeblocks-ahoy.md",
     "_pages/a.md",
-    "_pages",
     "README.md",
     "_posts/2016-05-20-welcome-to-jekyll.md",
     "_posts/2016-05-20-my-example-post.md",
