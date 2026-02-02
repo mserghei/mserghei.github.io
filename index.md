@@ -5,5 +5,10 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: home
+title: Home
+layout: default
 ---
+
+# Welcome to My Site
+This is my first page.
+
