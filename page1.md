@@ -4,4 +4,4 @@ layout: default
 ---
 
 # Welcome
-This is my first page1. [[index]]
+This is [drawing](draw.canvas)

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "page1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "page1"
             }
           }
         ]
@@ -185,7 +185,9 @@
   },
   "active": "e64b58d03aa927ad",
   "lastOpenFiles": [
+    "draw.md",
     "page1.md",
+    "draw.canvas",
     "index.md",
     "_posts/2016-05-20-this-post-demonstrates-post-content-styles.md",
     "_posts/2016-05-20-super-long-article.md",
