@@ -11,10 +11,14 @@
             "id": "e64b58d03aa927ad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -181,6 +185,8 @@
   },
   "active": "e64b58d03aa927ad",
   "lastOpenFiles": [
+    "page1.md",
+    "index.md",
     "_posts/2016-05-20-this-post-demonstrates-post-content-styles.md",
     "_posts/2016-05-20-super-long-article.md",
     "_posts/2016-05-19-super-short-article.md",
@@ -191,7 +197,6 @@
     "README.md",
     "_posts/2016-05-20-welcome-to-jekyll.md",
     "_posts/2016-05-20-my-example-post.md",
-    "index.md",
     "Welcome.md",
     "_posts",
     "_layouts/post.html",

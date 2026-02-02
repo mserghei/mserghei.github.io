@@ -12,3 +12,4 @@ layout: default
 # Welcome to My Site
 This is my first page.
 
+the link: [tothepage1](page1.md)
