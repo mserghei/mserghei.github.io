@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "page1.md",
+                "file": "about.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "page1"
+              "title": "about"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "page1.md",
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for page1"
+              "title": "Backlinks for about"
             }
           },
           {
@@ -171,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "page1.md"
+                "file": "about.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for page1"
+              "title": "File properties for about"
             }
           }
         ],
@@ -197,8 +197,16 @@
   },
   "active": "e64b58d03aa927ad",
   "lastOpenFiles": [
-    "images/img20260202204156.png",
     "page1.md",
+    "about.md",
+    "assets/style.css",
+    "assets/New Text Document.txt",
+    "assets",
+    "New folder",
+    "_layouts/default.html",
+    "_layouts/New Text Document.txt",
+    "_layouts",
+    "images/img20260202204156.png",
     "index.md",
     "img20260202203837.png",
     "images/Pasted.md",
@@ -219,13 +227,6 @@
     "_posts/2016-05-20-welcome-to-jekyll.md",
     "_posts/2016-05-20-my-example-post.md",
     "Welcome.md",
-    "_posts",
-    "_layouts/post.html",
-    "_layouts/page.html",
-    "_layouts/base.html",
-    "_layouts/home.html",
-    "_layouts",
-    "_includes/sub-footer.html",
     "screenshot.png",
     "readme_banner.svg",
     "CODE_OF_CONDUCT.md"
