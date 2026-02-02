@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2016-05-20-this-post-demonstrates-post-content-styles.md",
+                "file": "page1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2016-05-20-this-post-demonstrates-post-content-styles"
+              "title": "Backlinks for page1"
             }
           },
           {
@@ -164,13 +164,25 @@
               "icon": "lucide-list",
               "title": "Outline of 2016-05-20-this-post-demonstrates-post-content-styles"
             }
+          },
+          {
+            "id": "9efbb425a40f4845",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "page1.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for page1"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,8 +195,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "e64b58d03aa927ad",
+  "active": "9efbb425a40f4845",
   "lastOpenFiles": [
+    "images",
+    "images/Pasted image 20260202204156.png",
     "Pasted image 20260202203837.png",
     "draw.md",
     "page1.md",
