@@ -24,9 +24,17 @@
     </div>
 	
   <div class="sidebar">
-    <h2>Notes</h2>
-    <a href="{{ '/' | relative_url }}">Home</a>
-    <a href="{{ '/about.html' | relative_url }}">About</a>
+  <h2>Notes</h2>
+  <nav>
+    {% assign pages = site.pages | sort: "title" %}
+    {% for p in pages %}
+      {% if p.title %}
+        <a href="{{ p.url | relative_url }}">
+          {{ p.title }}
+        </a>
+      {% endif %}
+    {% endfor %}
+  </nav>
   </div>
 
   <div class="content">
