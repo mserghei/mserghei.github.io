@@ -8,17 +8,17 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        <pre>
+<a href="{{ "/" | absolute_url }}" style="text-decoration: none; color: inherit;">
+<pre style="font-family: monospace;">
            ____                 _          _ 
  _ __ ___ / ___|  ___ _ __ __ _| |__   ___(_)
 | '_ ` _ \\___ \ / _ \ '__/ _` | '_ \ / _ \ |
 | | | | | |___) |  __/ | | (_| | | | |  __/ |
 |_| |_| |_|____/ \___|_|  \__, |_| |_|\___|_|
                           |___/
-        </pre>
-
+</pre>
+</a>
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
