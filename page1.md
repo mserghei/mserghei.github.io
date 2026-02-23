@@ -1,5 +1,5 @@
 ---
-title: Home
+title: page1
 layout: default
 ---
 
