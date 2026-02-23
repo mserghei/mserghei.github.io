@@ -6,10 +6,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 title: Home
-layout: page
+layout: default
 ---
 
 # Welcome to My Site
 This is my first page.
 
-the link: [page1](page1.md)
+the link: [tothepage1](page1.md)

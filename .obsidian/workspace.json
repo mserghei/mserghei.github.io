@@ -11,17 +11,14 @@
             "id": "e64b58d03aa927ad",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "draw.canvas",
-                "viewState": {
-                  "x": -85,
-                  "y": 65,
-                  "zoom": -0.02966578220789889
-                }
+                "file": "page1.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "draw"
+              "icon": "lucide-file",
+              "title": "page1"
             }
           }
         ]
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "draw.canvas",
+                "file": "page1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for draw"
+              "title": "Backlinks for page1"
             }
           },
           {
@@ -159,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "draw.canvas",
-                "followCursor": true,
+                "file": "_posts/2016-05-20-this-post-demonstrates-post-content-styles.md",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of draw"
+              "title": "Outline of 2016-05-20-this-post-demonstrates-post-content-styles"
             }
           },
           {
@@ -174,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "draw.canvas"
+                "file": "page1.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for draw"
+              "title": "File properties for page1"
             }
           }
         ],
@@ -200,19 +197,9 @@
   },
   "active": "e64b58d03aa927ad",
   "lastOpenFiles": [
-    "about.md",
-    "draw.canvas",
-    "index.md",
-    "page1.md",
-    "_layouts/page.html",
-    "assets/style.css",
-    "assets/New Text Document.txt",
-    "assets",
-    "New folder",
-    "_layouts/default.html",
-    "_layouts/New Text Document.txt",
-    "_layouts",
     "images/img20260202204156.png",
+    "page1.md",
+    "index.md",
     "img20260202203837.png",
     "images/Pasted.md",
     "image/Pasted.md",
@@ -220,15 +207,25 @@
     "Pasted.md",
     "images",
     "draw.md",
+    "draw.canvas",
     "_posts/2016-05-20-this-post-demonstrates-post-content-styles.md",
     "_posts/2016-05-20-super-long-article.md",
     "_posts/2016-05-19-super-short-article.md",
     "_posts/2016-05-19-codeblocks-ahoy.md",
     "_pages/a.md",
+    "about.md",
+    "_pages",
     "README.md",
     "_posts/2016-05-20-welcome-to-jekyll.md",
     "_posts/2016-05-20-my-example-post.md",
     "Welcome.md",
+    "_posts",
+    "_layouts/post.html",
+    "_layouts/page.html",
+    "_layouts/base.html",
+    "_layouts/home.html",
+    "_layouts",
+    "_includes/sub-footer.html",
     "screenshot.png",
     "readme_banner.svg",
     "CODE_OF_CONDUCT.md"
