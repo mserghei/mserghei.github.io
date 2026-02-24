@@ -206,8 +206,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "71764531a96a0df9",
+  "active": "226da4df6a118810",
   "lastOpenFiles": [
+    "_includes/youtube.html",
     "_includes/youtbube.html",
     "_includes/New Text Document.txt",
     "pages/page3",
@@ -224,7 +225,6 @@
     "assets/css/style.scss",
     "assets/css/style.css",
     "assets/js/scale.fix.js",
-    "assets/js",
     "assets/img/logo.png",
     "assets/fonts/Noto-Sans-regular/Noto-Sans-regular.svg",
     "assets/fonts/Noto-Sans-italic/Noto-Sans-italic.svg",
