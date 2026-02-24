@@ -7,6 +7,7 @@
 #
 title: Home
 layout: default
+nav: false
 ---
 
 # Welcome to My Site 210756

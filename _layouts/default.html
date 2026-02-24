@@ -75,7 +75,7 @@ div.content {
         </a>
     {% assign pages = site.pages | sort: "title" %}
     {% for p in pages %}
-      {% if p.title %}
+      {% if p.title and p.nav != false %}
         <a href="{{ p.url | relative_url }}">
           {{ p.title }}
         </a>
