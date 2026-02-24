@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "page1.md",
+                "file": "about.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "page1"
+              "title": "about"
             }
           }
         ]
@@ -171,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "page1.md"
+                "file": "about.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for page1"
+              "title": "File properties for about"
             }
           }
         ],
@@ -195,8 +195,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "71764531a96a0df9",
+  "active": "e64b58d03aa927ad",
   "lastOpenFiles": [
+    "index.md",
+    "page1.md",
+    "about.md",
     "assets/css/style.scss",
     "assets/css/style.css",
     "assets/js/scale.fix.js",
@@ -209,14 +212,11 @@
     "assets/fonts/Noto-Sans-regular/Noto-Sans-regular.svg",
     "assets/fonts/Noto-Sans-regular/Noto-Sans-regular.eot",
     "assets/fonts/Noto-Sans-regular",
-    "assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff2",
     "assets/fonts/Noto-Sans-italic/Noto-Sans-italic.svg",
     "assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg",
     "assets/fonts/Noto-Sans-700/Noto-Sans-700.svg",
-    "index.md",
     "draw.canvas",
     "img20260202203837.png",
-    "page1.md",
     "images/img20260202204156.png",
     "images/Pasted.md",
     "image/Pasted.md",
@@ -227,7 +227,6 @@
     "_posts/2016-05-19-super-short-article.md",
     "_posts/2016-05-19-codeblocks-ahoy.md",
     "_pages/a.md",
-    "about.md",
     "README.md",
     "_posts/2016-05-20-welcome-to-jekyll.md",
     "_posts/2016-05-20-my-example-post.md",
