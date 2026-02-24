@@ -12,7 +12,7 @@ body {
 .sidebar {
   margin: 0;
   padding: 0;
-  width: 300px;
+  width: 350px;
   background-color: #f1f1f1;
   position: fixed;
   height: 100%;
@@ -37,9 +37,9 @@ body {
 }
 
 div.content {
-  margin-left: 300px;
+  margin-left: 350px;
   padding: 1px 16px;
-  height: 1000px;
+  height: auto;
 }
 
 @media screen and (max-width: 700px) {
@@ -64,14 +64,14 @@ div.content {
   <div class="sidebar">
   <nav>
           <a href="{{ "/" | absolute_url }}" style="text-decoration: none; color: inherit;">
-<pre style="font-family: monospace;">
+<small><pre style="font-family: monospace;">
            ____                 _          _ 
  _ __ ___ / ___|  ___ _ __ __ _| |__   ___(_)
 | '_ ` _ \\___ \ / _ \ '__/ _` | '_ \ / _ \ |
 | | | | | |___) |  __/ | | (_| | | | |  __/ |
 |_| |_| |_|____/ \___|_|  \__, |_| |_|\___|_|
                           |___/
-</pre>
+</pre></small>
         </a>
     {% assign pages = site.pages | sort: "title" %}
     {% for p in pages %}
