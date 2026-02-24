@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e422509b09f79932",
+        "id": "49901cc014230826",
         "type": "tabs",
         "children": [
           {
-            "id": "a1be859d73574e74",
+            "id": "560536996b47a696",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -166,9 +166,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "draw.canvas"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for draw"
             }
           }
         ],
@@ -189,11 +191,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "a1be859d73574e74",
+  "active": "71764531a96a0df9",
   "lastOpenFiles": [
-    "pages/page1/files/draw.canvas",
+    "page1.md",
     "index.md",
     "about.md",
+    "draw.canvas",
     "_includes/youtube.html",
     "_includes/youtbube.html",
     "_includes/New Text Document.txt",
@@ -202,9 +205,8 @@
     "pages/page1/files",
     "pages/page1",
     "pages",
-    "pages/page1/page1.md",
-    "pages/page2/page2.md",
-    "pages/page3/page3.md",
+    "page2.md",
+    "page3.md",
     "assets/css/style.scss",
     "assets/css/style.css",
     "assets/img/logo.png",
