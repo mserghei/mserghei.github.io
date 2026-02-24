@@ -19,12 +19,10 @@
                           |___/
 </pre>
         </a>
-        <hr>
       </header>
     </div>
 	
   <div class="sidebar">
-  <h2>Notes</h2>
   <nav>
     {% assign pages = site.pages | sort: "title" %}
     {% for p in pages %}
@@ -36,7 +34,6 @@
     {% endfor %}
   </nav>
   </div>
-<hr>
   <div class="content">
     {{ content }}
   </div>
