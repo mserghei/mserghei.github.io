@@ -11,10 +11,17 @@
             "id": "e0fa0c1d80bef7f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "draw.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "draw"
             }
           }
         ]
@@ -166,9 +173,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "draw.canvas"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for draw"
             }
           }
         ],
@@ -191,9 +200,11 @@
   },
   "active": "e0fa0c1d80bef7f3",
   "lastOpenFiles": [
-    "page2.md",
-    "page1.md",
     "index.md",
+    "draw.canvas",
+    "page1.md",
+    "page2.md",
+    "page3.md",
     "about.md",
     "assets/css/style.scss",
     "assets/css/style.css",
@@ -210,7 +221,6 @@
     "assets/fonts/Noto-Sans-italic/Noto-Sans-italic.svg",
     "assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg",
     "assets/fonts/Noto-Sans-700/Noto-Sans-700.svg",
-    "draw.canvas",
     "img20260202203837.png",
     "images/img20260202204156.png",
     "images/Pasted.md",

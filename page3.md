@@ -1,7 +1,7 @@
 ---
-title: page1
+title: page3
 layout: default
 ---
 
 # Welcome
-This is page1
+This is page3

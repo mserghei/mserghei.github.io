@@ -3,5 +3,5 @@ title: page2
 layout: default
 ---
 
-# Welcome123
+# Welcome
 This is page2

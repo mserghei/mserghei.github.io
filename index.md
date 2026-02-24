@@ -14,3 +14,5 @@ nav: false
 This is my first page.
 
 the link: [tothepage1](page1.md)
+
+link to [drawing](draw.canvas)
